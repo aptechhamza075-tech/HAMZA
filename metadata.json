@@ -1,0 +1,7 @@
+{
+  "name": "Cine-Editor AI",
+  "description": "An advanced AI-powered cinematic image generation and editing studio. Generate epic movie posters and edit them with simple text commands using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
